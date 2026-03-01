@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Soumya 👋
 
-<!--
-**Soumya-Gummani/Soumya-Gummani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate (2026)  
+💻 Interested in backend systems, data handling, and operations-focused roles  
+📊 Experience with Python, SQL, REST APIs, and basic system monitoring  
+🌱 Currently learning and improving my technical and communication skills  
 
-Here are some ideas to get you started:
+### Skills
+- Python, Java (Basic)
+- SQL, MySQL
+- REST APIs, Node.js (Basic)
+- Git & GitHub
+- Power BI, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Health Data Analysis & Prediction System
+- Personalized Diet Recommendation System
+- SmartLink – Digital Certificate Verification (Internship)
+
+📫 Reach me: soumya.sg03@gmail.com
