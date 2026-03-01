@@ -15,6 +15,5 @@
 ### Projects
 - Health Data Analysis & Prediction System
 - Personalized Diet Recommendation System
-- SmartLink – Digital Certificate Verification (Internship)
 
 📫 Reach me: soumya.sg03@gmail.com
